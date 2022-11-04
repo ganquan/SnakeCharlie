@@ -12,6 +12,8 @@ So I decided to make a C++ implementation from scratch, without using any AI-rel
 Any issue and PR are welcome.
 
 # Demo
+https://user-images.githubusercontent.com/252301/199925778-187aea08-eefb-4926-b0eb-91538d314892.mp4
+
 
 # Features
 + Support 3 modes
