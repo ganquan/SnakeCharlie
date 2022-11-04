@@ -11,6 +11,7 @@
 欢迎任何的issue和PR。
 
 # Demo
+https://user-images.githubusercontent.com/252301/199925778-187aea08-eefb-4926-b0eb-91538d314892.mp4
 
 # 特性
 + 支持3种模式
