@@ -78,7 +78,7 @@ snake: Usage:
       2: AI play
 ```
 
-## Config file explaination
+## Configuration
 Several node in config/appConfig.json:
 * **ai**: parameters in AI player mode
 * **playboard**: the size of the configuration panel, if you plan to start training from 0, the game panel size will be too large and cause too long training time
