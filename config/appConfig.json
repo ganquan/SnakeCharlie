@@ -1,0 +1,54 @@
+{
+    "ai": {
+        "nnFile": "../config/SnakeCharlie.json",
+        "playManually": false,
+        "speed": {
+            "initMoveInterval": 40,
+            "intervalStep": 10,
+            "minMoveInterval": 40
+        }
+    },
+    "playboard": {
+        "drawGrid": true,
+        "girdSize": 40,
+        "playboardCol": 10,
+        "playboardRow": 10
+    },
+    "snake": {
+        "snakeBodyHeight": 40,
+        "snakeBodyWidth": 40
+    },
+    "snakeApp": {
+        "speed": {
+            "initMoveInterval": 250,
+            "intervalStep": 10,
+            "minMoveInterval": 120
+        }
+    },
+    "training": {
+        "latestSaveGeneration": 15000,
+        "latestSaveTimestamp": "2022-11-04 15:21:50",
+        "maxGeneration": 15000,
+        "populationSize": 1000,
+        "reportFrequency": 1,
+        "sampleSize": 100,
+        "saveFrequency": 100,
+        "strictWander": true,
+        "taskName": "SnakeCharlie",
+        "topology": [
+            28,
+            20,
+            12,
+            4
+        ],
+        "trainingDataPath": "../config/training",
+        "wanderThreshold": 100
+    },
+    "ui": {
+        "lableFontPath": "../assets/fonts/Monaco.ttf",
+        "lableFontSize": 13,
+        "margin": 20,
+        "padding": 20,
+        "windowTitle": "SnakeCharlie"
+    }
+}
